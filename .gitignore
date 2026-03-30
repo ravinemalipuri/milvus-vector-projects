@@ -1,0 +1,10 @@
+# Milvus Docker volumes — runtime data, not for git
+01-Installation/volumes/
+
+# Python
+__pycache__/
+*.pyc
+*.db
+
+# HuggingFace model cache
+.cache/

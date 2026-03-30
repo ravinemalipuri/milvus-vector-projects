@@ -1,0 +1,11 @@
+# Milvus client + model utilities
+pymilvus[model]
+
+# Embedding model (replaces DefaultEmbeddingFunction - works on Windows)
+sentence-transformers
+
+# Required by sentence-transformers
+torch
+
+# Upgrade pip first if on Windows Store Python:
+# python -m pip install --upgrade pip
