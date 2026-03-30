@@ -320,6 +320,12 @@ milvus-vector-projects/
 
 ---
 
+## AI Assistance
+
+This project was co-authored with the assistance of AI-powered LLMs (Large Language Models) & https://milvus.io/docs.  
+
+---
+
 ## References
 
 - [Milvus Docs](https://milvus.io/docs)
